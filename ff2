@@ -5,3 +5,4 @@ df -h .
 free
 free -m
 free -g
+mkdir -p dir1
