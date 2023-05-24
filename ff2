@@ -1,2 +1,5 @@
 du -sh filename
 du -sh *
+df -h 
+df -h .
+
