@@ -1,1 +1,1 @@
-df -sh filename
+du -sh filename
