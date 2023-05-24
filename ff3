@@ -2,4 +2,7 @@ du -sh filename
 du -sh *
 df -h 
 df -h .
-
+free
+free -m
+free -g
+mkdir -p dir1
